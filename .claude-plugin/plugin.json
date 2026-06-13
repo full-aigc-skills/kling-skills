@@ -1,0 +1,15 @@
+{
+  "name": "kling-skills",
+  "version": "1.0.0",
+  "description": "可灵 (Kling) AIGC skills — text-to-video and image-to-video prompt engineering",
+  "author": {
+    "name": "AIGC Skills Community"
+  },
+  "homepage": "https://github.com/full-aigc-skills/kling-skills",
+  "repository": "https://github.com/full-aigc-skills/kling-skills",
+  "source": "./",
+  "skills": [
+    "./skills/kling-prompt",
+    "./skills/kling-video"
+  ]
+}
