@@ -1,0 +1,4 @@
+interface:
+  display_name: "可灵视频生成"
+  short_description: "按 API 或 SDK 能力组织可灵视频生成，核对输入、授权与任务状态"
+  default_prompt: "使用 $kling-video 按 API 或 SDK 能力组织可灵视频生成，核对输入、授权与任务状态；先核对输入、可用能力和交付要求。"

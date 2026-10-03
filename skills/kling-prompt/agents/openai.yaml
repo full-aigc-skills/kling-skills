@@ -1,0 +1,4 @@
+interface:
+  display_name: "可灵视频提示词"
+  short_description: "为可灵文生视频或图生视频组织动作、镜头、灯光与角色提示词"
+  default_prompt: "使用 $kling-prompt 为可灵文生视频或图生视频组织动作、镜头、灯光与角色提示词；先核对输入、可用能力和交付要求。"
